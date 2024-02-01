@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Nayek</h1>
 <h3 align="center">A Passionate researcher in the field of AI and ML</h3>
-<img align="right" alt="Data Analysis" width="400" src="https://github.com/Sumit-Nayek/Sumit-Nayek/blob/main/final%20page%20animation.gif">
+<img align="right" alt="Data Analysis" width="300" src="https://github.com/Sumit-Nayek/Sumit-Nayek/blob/main/final%20page%20animation.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samartha007&label=Profile%20views&color=0e75b6&style=flat" alt="samartha007" /> </p>
 
 - 🔭 I’m currently working on **COVID 19 Disease Prediction and Diagnostic Classification using Statistical and Machine Learning Techniques Funded By Indian Council of Medical Research(ICMR)**
