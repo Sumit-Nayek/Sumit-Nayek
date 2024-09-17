@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sumitnayek1998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KtKPrCEEOgGpfh1JouOETDbtyvzdkS3R/view?usp=sharing]([https://drive.google.com/file/d/1S6nwzStMwLsrGQD7eVlWf7i_DOJukSBb/view?usp=drive_link](https://drive.google.com/file/d/1KtKPrCEEOgGpfh1JouOETDbtyvzdkS3R/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KtKPrCEEOgGpfh1JouOETDbtyvzdkS3R/view?usp=sharing](https://drive.google.com/file/d/1KtKPrCEEOgGpfh1JouOETDbtyvzdkS3R/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
