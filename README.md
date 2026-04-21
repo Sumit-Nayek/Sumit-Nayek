@@ -35,7 +35,7 @@
 <!-- About Section -->
 <img align="right" alt="Coding" width="280" src="https://github.com/Sumit-Nayek/Sumit-Nayek/blob/main/final%20page%20animation.gif"/>
 
-### 🧠 About Me
+###  About Me
 
 ```python
 researcher = {
@@ -48,8 +48,7 @@ researcher = {
 }
 ```
 
-- 🔭 Working on **COVID-19 Disease Prediction & Diagnostic Classification** using Statistical & ML techniques — funded by **ICMR**
-- 🌱 Currently exploring **Generative Modeling** and **Transfer Learning**
+- 🌱 Currently exploring **Generative Modeling** and **Agentic AI**
 - 📄 Check out my [**Resume / CV**](https://drive.google.com/file/d/1KtKPrCEEOgGpfh1JouOETDbtyvzdkS3R/view?usp=sharing)
 - 📬 Reach me at **sumitnayek1998@gmail.com**
 
