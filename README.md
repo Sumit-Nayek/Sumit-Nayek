@@ -49,7 +49,7 @@ researcher = {
 ```
 
 - 🌱 Currently exploring **Generative Modeling** and **Agentic AI**
-- 📄 Check out my [**Resume / CV**]([https://drive.google.com/file/d/1KtKPrCEEOgGpfh1JouOETDbtyvzdkS3R/view?usp=sharing])
+- 📄 Check out my [**Resume / CV**](https://drive.google.com/file/d/1GEVd8GC002fI6HefB68DAlOtAg5S_dGN/view?usp=sharing)
 - 📬 Reach me at **sumitnayek1998@gmail.com**
 
 <br clear="right"/>
